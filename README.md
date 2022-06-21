@@ -1,4 +1,4 @@
-- Just a wild @VanillaFiraga from a galaxy far, far away.
+Just a wild @VanillaFiraga from a galaxy far, far away.
 - Poking at basic code, strong eye for UIX.
 - Nothing else I'd care to share, worked for ISP as mid management and tech support.
 
